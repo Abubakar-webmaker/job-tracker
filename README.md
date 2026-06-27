@@ -182,7 +182,7 @@ http://localhost:3000
 ## 👨‍💻 Author
 
 **Abu Bakar**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@YOUR_USERNAME](https://github.com/Abubakar-webmaker)
 - Location: Karachi, Pakistan
 
 ---
